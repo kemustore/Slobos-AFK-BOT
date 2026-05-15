@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Kemu_Gaming",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "kareem159357-1XVM.aternos.me",
-    "port": 50023,
+    "ip": "kareem159357-Qg9Y.aternos.me",
+    "port": 14969,
     "version": "1.21.1"
   },
   "position": {
